@@ -1,0 +1,45 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "9ab97511c3dfedbf644e5418131ea1c46f5889df6b7d1a4f2de1a2bb998c50ed"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.8"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "pynmeagps": {
+            "hashes": [
+                "sha256:0d3d24257bdf7d51d67297eb23a8722e6d521036cc6ad83db76a67aef2395c17",
+                "sha256:c67ba53c0adf053aeb8a6d9c4ccdea52420d443670fd234177638ebc677949e2"
+            ],
+            "index": "pypi",
+            "version": "==1.0.2"
+        },
+        "pyserial": {
+            "hashes": [
+                "sha256:3c77e014170dfffbd816e6ffc205e9842efb10be9f58ec16d3e8675b4925cddb",
+                "sha256:c4451db6ba391ca6ca299fb3ec7bae67a5c55dde170964c7a14ceefec02f2cf0"
+            ],
+            "index": "pypi",
+            "version": "==3.5"
+        },
+        "pyubx2": {
+            "hashes": [
+                "sha256:e300643bad06c072c49c52afac0b53893e50ae9ab6bc15168eb4c5b4c120d375",
+                "sha256:f0d9f23f6d0dfca8d3d6c30585e0189d3df416e937e170452b7e578245dcff91"
+            ],
+            "index": "pypi",
+            "version": "==1.0.11"
+        }
+    },
+    "develop": {}
+}
